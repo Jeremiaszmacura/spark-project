@@ -3,6 +3,8 @@
 ### How to install bigdatasetup (spark, hadoop, jdk)
 https://www.youtube.com/watch?v=LrpxfCxmMeo
 
+python < 3.10 (tensorflow dont support recent versions)
+
 jdk 11.0.14 (https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 
 spark 3.2.3 (https://www.apache.org/dyn/closer.lua/spark/spark-3.2.3/spark-3.2.3-bin-hadoop2.7.tgz)
